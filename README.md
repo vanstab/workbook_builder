@@ -219,4 +219,7 @@ I wanted to make a free and easy way to make workbooks for kids. Was motivated b
 
 If you have suggestions feel free to add an issue.
 
+
 Happy tracing! ✏️
+
+PS: AI was used to make this project, I was curious to see how it would do and wasn't disappointed by the results.

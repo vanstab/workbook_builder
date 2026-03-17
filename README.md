@@ -42,10 +42,14 @@ Each worksheet includes:
 - Colorful themes
 - Encouraging messages
 - Dashed lines that are easy for little hands to trace
-- 
+### Example page
 <img width="945" height="1051" alt="Screenshot 2026-03-16 222413" src="https://github.com/user-attachments/assets/f7ca4bb4-c796-4e86-94b9-0debc52f8ef4" />
- <img width="790" height="952" alt="Screenshot 2026-03-16 222356" src="https://github.com/user-attachments/assets/bfb70968-5773-4618-bd2d-f490951488c1" />
+
+### The UI
 <img width="1128" height="1240" alt="Screenshot 2026-03-16 222233" src="https://github.com/user-attachments/assets/05e17eed-fd94-4d9f-a7f7-c232fa0a5930" />
+
+ <img width="790" height="952" alt="Screenshot 2026-03-16 222356" src="https://github.com/user-attachments/assets/bfb70968-5773-4618-bd2d-f490951488c1" />
+
 
 ---
 
@@ -211,6 +215,8 @@ If you encounter any issues or have questions, please check:
 
 ## Have Fun!
 
-I wanted to make a free and easy way to make workbooks for kids. Was motivated because mine loves them so much! 
+I wanted to make a free and easy way to make workbooks for kids. Was motivated because mine loves them so much!
+
+If you have suggestions feel free to add an issue.
 
 Happy tracing! ✏️

@@ -1,0 +1,11 @@
+# Workbook Generator - Requirements
+# Python 3.10+
+
+# PDF Generation
+reportlab>=4.0.0
+
+# Single-stroke fonts for tracing
+HersheyFonts>=0.2.0
+
+# Web UI (optional - only needed for Streamlit interface)
+streamlit>=1.28.0

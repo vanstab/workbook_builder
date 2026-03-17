@@ -1,0 +1,77 @@
+# ═══════════════════════════════════════════════════════════════════════════
+# STREAMLIT WEB APP CONFIGURATION
+# ═══════════════════════════════════════════════════════════════════════════
+#
+# This file controls how the worksheet generator web interface looks and runs.
+# You can edit these settings with any text editor (Notepad, TextEdit, etc.)
+#
+# After making changes, restart the app to see them take effect.
+#
+# ═══════════════════════════════════════════════════════════════════════════
+
+[server]
+# ── Server Settings ──────────────────────────────────────────────────────
+
+# IP Address - Who can access the app?
+# "0.0.0.0" = Anyone on your network (home, school, office)
+# "127.0.0.1" = Only this computer (more private/secure)
+address = "0.0.0.0"
+
+# Port Number - Which port to use (usually leave as 8502)
+port = 8502
+
+# Auto-open Browser - Open browser automatically when starting?
+# false = yes, open browser automatically
+# true = no, don't open browser
+headless = false
+
+
+[browser]
+# ── Privacy Settings ─────────────────────────────────────────────────────
+
+# Send Usage Stats to Streamlit?
+# false = no, keep private
+# true = yes, help improve Streamlit
+gatherUsageStats = false
+
+
+[theme]
+# ── Color Theme ──────────────────────────────────────────────────────────
+# Change these colors to customize the look!
+# Use hex color codes like #FF6B9D (Google "hex color picker" for help)
+
+# Main accent color (buttons, highlights)
+primaryColor = "#FF6B9D"
+
+# Main background color (white)
+backgroundColor = "#FFFFFF"
+
+# Sidebar and secondary areas (light gray)
+secondaryBackgroundColor = "#F0F2F6"
+
+# Text color (dark gray)
+textColor = "#262730"
+
+# Font style (sans serif, serif, or monospace)
+font = "sans serif"
+
+
+# ═══════════════════════════════════════════════════════════════════════════
+# COMMON CUSTOMIZATIONS
+# ═══════════════════════════════════════════════════════════════════════════
+#
+# 🎨 Change accent color to blue:
+#    primaryColor = "#4A90E2"
+#
+# 🔒 Make it local-only (more secure):
+#    address = "127.0.0.1"
+#
+# 🔢 Use a different port:
+#    port = 8080
+#
+# 🌙 Dark mode (example):
+#    backgroundColor = "#1E1E1E"
+#    secondaryBackgroundColor = "#252525"
+#    textColor = "#FAFAFA"
+#
+# ═══════════════════════════════════════════════════════════════════════════

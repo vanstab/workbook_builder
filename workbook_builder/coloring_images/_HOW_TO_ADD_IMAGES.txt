@@ -1,0 +1,56 @@
+╔══════════════════════════════════════════════════════════════════════════╗
+║                   HOW TO ADD YOUR OWN COLORING IMAGES                    ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+📂 SIMPLE STEPS:
+
+1. Find or create a coloring image (black outlines on white background)
+   - Can be PNG, JPG, or PDF format
+   - Simple line drawings work best for ages 2-5
+
+2. Drag and drop your image into one of these folders:
+
+   📁 shapes/     → Circles, squares, triangles, stars, hearts, etc.
+   📁 animals/    → Dogs, cats, fish, birds, butterflies, etc.
+   📁 objects/    → Cars, balls, cups, toys, houses, etc.
+   📁 nature/     → Flowers, trees, leaves, sun, clouds, etc.
+   📁 custom/     → Any other images you want to use
+
+3. That's it! The images will automatically appear in your worksheets.
+
+
+✨ TIPS FOR BEST RESULTS:
+
+✓ Use simple, bold outlines (thick black lines)
+✓ Avoid very detailed or tiny parts
+✓ White or transparent background
+✓ Size around 400-800 pixels works great
+✓ Test by printing to make sure kids can color it easily
+
+
+💡 WHERE TO FIND COLORING IMAGES:
+
+• Draw your own and scan/photograph it
+• Download from free coloring page websites
+• Use Canva or similar tools to create simple line art
+• Ask AI tools like ChatGPT/DALL-E for "simple coloring page of [object]"
+• Print any image, trace the outlines, scan it back in
+
+
+📝 FILE NAMING:
+
+• Use descriptive names: "cat.png", "flower.png", "car.png"
+• Don't worry about special formats - any name works!
+• Images appear in alphabetical order
+
+
+❓ QUESTIONS?
+
+See README.md in this folder for more detailed information.
+
+
+═══════════════════════════════════════════════════════════════════════════
+
+              Made simple for parents, teachers, and caregivers! ❤️
+
+═══════════════════════════════════════════════════════════════════════════

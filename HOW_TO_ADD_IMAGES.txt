@@ -8,7 +8,7 @@
    - Can be PNG, JPG, or PDF format
    - Simple line drawings work best for ages 2-5
 
-2. Drag and drop your image into one of these folders:
+2. Drag and drop your image into one of these folders under the folder colouring_images:
 
    📁 shapes/     → Circles, squares, triangles, stars, hearts, etc.
    📁 animals/    → Dogs, cats, fish, birds, butterflies, etc.
@@ -43,14 +43,3 @@
 • Don't worry about special formats - any name works!
 • Images appear in alphabetical order
 
-
-❓ QUESTIONS?
-
-See README.md in this folder for more detailed information.
-
-
-═══════════════════════════════════════════════════════════════════════════
-
-              Made simple for parents, teachers, and caregivers! ❤️
-
-═══════════════════════════════════════════════════════════════════════════

@@ -1,0 +1,9 @@
+╔══════════════════════════════════════════════════════════════════════════╗
+║                   HOW TO ADD YOUR OWN WORDS                  ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+📂 SIMPLE STEPS:
+
+In the folder workbook_builder there is a file called words.txt
+
+Add any words to that file you want and it can be used by the program.

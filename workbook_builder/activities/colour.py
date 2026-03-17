@@ -282,6 +282,6 @@ class Colour(Activity):
         canvas.drawCentredString(cx, cy - 30, "workbook_builder/coloring_images/animals/")
         canvas.drawCentredString(cx, cy - 50, "workbook_builder/coloring_images/custom/")
         canvas.setFont("Helvetica", 12)
-        canvas.drawCentredString(cx, cy - 80, "See _HOW_TO_ADD_IMAGES.txt for help!")
+        canvas.drawCentredString(cx, cy - 80, "See HOW_TO_ADD_IMAGES.txt for help!")
 
         canvas.restoreState()
